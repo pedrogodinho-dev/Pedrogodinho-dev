@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="bannergit" width="100%">
+  <img src="banner.png" alt="bannergit.png" width="100%">
 </div>
 
 # 👨🏻‍💻Pedro Henrique
