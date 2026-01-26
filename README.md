@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="bannergit" width="100%">
+</div>
+
 # 👨🏻‍💻Pedro Henrique
 
 **`Desenvolvedor FullStack`**
